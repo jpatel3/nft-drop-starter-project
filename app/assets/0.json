@@ -1,0 +1,19 @@
+{
+    "name": "Mohra",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8ZZNw1rfxoW3AEZMo8QzCyZRH6bhDkPv8EnBCp3wDqqY",
+          "share": 100
+        }
+      ]
+    }
+  }
